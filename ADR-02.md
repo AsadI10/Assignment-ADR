@@ -1,5 +1,3 @@
-# Assignment-ADR
-
 ## Context
 
 1. It is expcted that the visa processing system would manage a wide range of data types, each with unique properties and speficifications.

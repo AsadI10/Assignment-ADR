@@ -1,5 +1,3 @@
-# Assignment-ADR
-
 ## Context
 
 1. The visa processing system, in order to process visa requests and get updated visa regulations in real time, the system will need to communicate with the visa issuing authorities of various nations such as UKVI for the United Kingdom.
