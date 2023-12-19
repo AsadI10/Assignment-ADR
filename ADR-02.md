@@ -30,3 +30,6 @@ This ADR is somewhat approved to use for the visa processing system.
 Asad Imtiaz
 
 ## References
+
+Patterns of enterprise application architecture: ""By Marin Fowler, 2002, Addison-Wesley Professional.
+https://books.google.co.uk/books?hl=en&lr=&id=vqTfNFDzzdIC&oi=fnd&pg=PR7&dq=Fowler,+Martin.+%22Patterns+of+Enterprise+Application+Architecture.%22+Addison-Wesley+Professional,+2002.&ots=oVzjywKLtA&sig=cAvktQ9S1_mhqTXGVvoyIE111RQ#v=onepage&q&f=false
