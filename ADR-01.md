@@ -31,3 +31,6 @@ This ADR is successful and approved to use for the visa processing system.
 Asad Imtiaz
 
 ## References
+
+Sam Newman, author of "Building Microservices:Designing Fine-Grained Systems" O'Reailly Media, 2015.
+https://books.google.co.uk/books/about/Building_Microservices.html?id=jjl4BgAAQBAJ&redir_esc=y
