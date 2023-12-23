@@ -24,6 +24,8 @@ Accepted and created user stories
 
 ## Decision Maker
 
+Asad Imtiaz
+
 ## Reference
 
 Mike Cohn "User stories applied: For Agile Software Development"
