@@ -28,3 +28,7 @@ Accepted and completed
 Asad Imtiaz
 
 ## Reference
+
+Technology stack evaluation report
+C4 Model
+Security policy and compliance guidelines
