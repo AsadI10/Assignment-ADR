@@ -1,27 +1,30 @@
 ## Context
 
-In order to effectively present the relationship between different data entities, I need an easy to understand visualization of our database design
+FOr my visa application system which will enable user to apply for visas and view the dashboard information, i require a cleam architectural layout with a focus on maintability scalability and security.
 
 ## Decison
 
-I have decided that I will be using Entity-Relationship-Diagram(ERD) for our database design process.
+I've chosen to employ the component-based architecture depicted in the diagram, which conists of an external email and file storage system differnet controllers for various functionalities security components and a single page application servinf as the user interface.
 
 ## Rationale
 
-I choose ERDs because they offer clear representation that will mkae it easier for me and the stakeholders to quikcly undertand the relationship and structure of the database
+The rationale for this architecture is to:
+1.Decouple the user interface from the server side logic, allowin independent scaling and updates.
 
 ## Implications
 
-Positive: Better communication and the undertanding of the database design will result from this. The drawback is that regular updates will be necessary to maintain the ERD's position with the database as it changes.
+The selected technologies - Oracle database, angluar, and spring MVC, call for specialised knowledge.
 
 ## Status
 
-Aprroved
+Accepted and completed
 
 ## Date
 
-10/11/2023
+15/10/2023
 
 ## Decision Maker
 
 Asad Imtiaz
+
+## Reference
